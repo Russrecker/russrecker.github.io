@@ -11,7 +11,7 @@ talk about project here
 
 <br><br>
 
-### Enhancement 1 - Software Development and Engineering
+### Enhancement 1 - Software Design and Engineering
 talk about enhancement 
 
 <br><br>
