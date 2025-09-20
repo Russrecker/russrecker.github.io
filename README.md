@@ -54,6 +54,8 @@ This artifact works well for my ePortfolio because it ties together multiple are
 ### [Enhancement 1 - Software Design and Engineering](https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%201%20-%20Software%20Design%20and%20Engineering)
 I added a line graph that shows weight entries over time. This makes progress easier to see and improves the app’s usability. While doing this, I learned how to integrate third-party chart libraries and keep data organized for display. This enhancement shows my ability to design features that connect code to a better user experience.
 
+![Line Graph Screenshot](https://github.com/Russrecker/CS-499-Computer-Science-Capstone/blob/main/Artifact-Weight-Tracker/Enhancement%201%20-%20Software%20Design%20and%20Engineering/assets/Line%20Graph.png)
+
 ---
 
 ### [Enhancement 2 - Algorithms and Data Structures](https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%202%20-%20Algorithms%20and%20Data%20Structures)
