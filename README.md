@@ -30,6 +30,8 @@ Building this portfolio also gave me the chance to reflect on what I’ve learne
 </style>
 In this video, I walked through the original Weight Tracker app, explained the existing functionality, and described the enhancements I planned for design, algorithms, and databases.
 
+---
+
 ### Artifact: Weight Tracker App
 The Weight Tracker app was built in my CS360 Mobile Architect & Programming course. It lets users log weight entries, track their goal, and now includes added features through my enhancements.
 
@@ -46,14 +48,17 @@ The Weight Tracker app was built in my CS360 Mobile Architect & Programming cour
 
 This artifact works well for my ePortfolio because it ties together multiple areas of computer science into one project.
 
+---
 
 ### Enhancement 1 - Software Design and Engineering
 I added a line graph that shows weight entries over time. This makes progress easier to see and improves the app’s usability. While doing this, I learned how to integrate third-party chart libraries and keep data organized for display. This enhancement shows my ability to design features that connect code to a better user experience.
 
+---
 
 ### Enhancement 2 - Algorithms and Data Structures
 I added a merge sort to organize the weight entries. This keeps the graph and list view consistent and shows that I can apply algorithms in practice. It also gave me the chance to compare built-in sorting with implementing an algorithm directly. This enhancement shows that I can solve problems with data and improve efficiency where needed. 
 
+---
 
 ### Enhancement 3 - Databases
 I built a notes section that uses the SQLite database. Now users can save comments or details with each weight entry. This enhancement gave me experience designing a table, connecting it with the app, and making sure new data shows right away. It shows that I can design and manage databases inside an application.
