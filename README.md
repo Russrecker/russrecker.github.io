@@ -56,10 +56,10 @@ I added a line graph that shows weight entries over time. This makes progress ea
 
 ---
 
-### Enhancement 2 - Algorithms and Data Structures
+### [Enhancement 2 - Algorithms and Data Structures](https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%202%20-%20Algorithms%20and%20Data%20Structures)
 I added a merge sort to organize the weight entries. This keeps the graph and list view consistent and shows that I can apply algorithms in practice. It also gave me the chance to compare built-in sorting with implementing an algorithm directly. This enhancement shows that I can solve problems with data and improve efficiency where needed. 
 
 ---
 
-### Enhancement 3 - Databases
+### [Enhancement 3 - Databases](https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%203%20-%20Databases)
 I built a notes section that uses the SQLite database. Now users can save comments or details with each weight entry. This enhancement gave me experience designing a table, connecting it with the app, and making sure new data shows right away. It shows that I can design and manage databases inside an application.
