@@ -13,7 +13,12 @@ For these, I used my Weight Tracker Android app as my main artifact. I added a l
 Building this portfolio also gave me the chance to reflect on what I’ve learned. I worked on communicating my code, thinking about efficiency, and designing features that make sense to users. I also built a stronger mindset around security, making sure inputs are handled safely and features work as expected. Altogether, this portfolio shows that I can plan, explain, and deliver software that works.
 
 ### Code Review Video
-https://youtu.be/mLdLV2cGZS4
+<iframe width="560" height="315" 
+  src="https://youtu.be/mLdLV2cGZS4" 
+  title="Code Review Video" 
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
 In this video, I walked through the original Weight Tracker app, explained the existing functionality, and described the enhancements I planned for design, algorithms, and databases.
 
 ### Artifact: Weight Tracker App
