@@ -28,6 +28,7 @@ Building this portfolio also gave me the chance to reflect on what I’ve learne
 .video { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
 .video iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; }
 </style>
+
 In this video, I walked through the original Weight Tracker app, explained the existing functionality, and described the enhancements I planned for design, algorithms, and databases.
 
 ---
