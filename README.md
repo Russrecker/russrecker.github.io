@@ -33,7 +33,7 @@ In this video, I walked through the original Weight Tracker app, explained the e
 
 ---
 
-### Artifact: Weight Tracker App
+### [Artifact: Weight Tracker App](https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker)
 The Weight Tracker app was built in my CS360 Mobile Architect & Programming course. It lets users log weight entries, track their goal, and now includes added features through my enhancements.
 
 #### Original version included:
