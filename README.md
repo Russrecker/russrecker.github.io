@@ -56,7 +56,9 @@ This artifact works well for my ePortfolio because it ties together multiple are
 ---
 
 ### [Enhancement 1 - Software Design and Engineering](https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%201%20-%20Software%20Design%20and%20Engineering)
-I added a line graph that shows weight entries over time. This makes progress easier to see and improves the app’s usability. While doing this, I learned how to integrate third-party chart libraries and keep data organized for display. This enhancement shows my ability to design features that connect code to a better user experience.
+For this enhancement, I added a line graph to the Weight Tracker app. The graph pulls data from the database, orders it from oldest to newest, and shows it visually with a goal line. This makes the app more useful because users can see their progress instead of just looking at numbers in a list. On the front end, I integrated MPAndroidChart and customized it with colors, markers, and a goal line. On the back end, I connected it to both the weight and goal databases, made sure the data was sorted correctly, and added error handling. This shows I can connect front-end and back-end work and design a feature that improves usability.
+
+This enhancement also gave me the chance to practice working with outside libraries and tie them into my project in a way that fit my design. I learned how to manage the data flow between the database and the UI, and how to make a visual feature that feels natural for the user. Adding the graph shows that I can take an existing app and build on it with new ideas that improve both the look and the function.
 
 <img src="https://raw.githubusercontent.com/Russrecker/CS-499-Computer-Science-Capstone/main/Artifact-Weight-Tracker/Enhancement%201%20-%20Software%20Design%20and%20Engineering/assets/Line%20Graph.png" alt="Line Graph Screenshot" width="250">
 
