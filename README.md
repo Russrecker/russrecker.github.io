@@ -1,16 +1,20 @@
 # CS 499 Computer Science Capstone
 
 ### Professional Self-Assessment
-Hi, my name is Russell Reckhow and I am finishing up my bachelor's degree in Computer Science at Southern New Hampshire University. This program gave me the chance to test my skills on real projects and see how computer science connects to solving problems.
+Hi, my name is Russell Reckhow and I am finishing up my bachelor's degree in Computer Science at Southern New Hampshire University. When I started this program, I had little to no background in computer science. Over time I learned new skills and built projects that show I can design, code, and solve problems. Working on the Capstone gave me the chance to see how much I’ve improved since starting the program.
 
-Building this ePortfolio shows my growth and skills I will use in my career. I focused on three areas: 
+Some of my favorite classes gave me the chance to work on cool projects and see how computer science applies in different ways. In CS-330 Computer Graphics and Visualization, I built a 3D OpenGL scene that showed me how graphics work in programming. In CS-465 Full Stack Development, I worked on the Travlr Getaways project, where I used the MEAN stack and learned how the front-end and back-end work together. In CS-370 Current & Emerging Trends in CS, I built a reinforcement learning pirate agent to find the fastest way to the treasure. These classes gave me hands-on experience and helped me grow my skills in different areas of computer science.
+
+The program also gave me the chance to connect with other classmates through discussions and the unofficial school Discord. I was able to talk with other students, get and share feedback, which made me think about problems in new ways. This helped me see how important it is to communicate with your peers, since explaining your thought process and listening to others can make things easier.
+
+The program also helped me build skills that I’ll take with me, whether in a computer science career or another path I decide to follow. I learned how to make my code run better with the right algorithms, how to design apps in a way that makes sense for users, and how to work with databases to store and pull data. I also started paying more attention to security, like checking inputs and avoiding mistakes that could cause problems. These are all things I know will carry over into real projects.
+
+Building this ePortfolio shows my growth and the skills I will use in my career. I focused on three areas:
 - Software Design and Engineering
 - Algorithms and Data Structures
 - Databases
 
-For these, I used my Weight Tracker Android app as my main artifact. I added a line graph for design, a merge sort for algorithms, and a notes section for databases. These changes highlight that I can improve an app’s design, apply algorithms in real code, and manage data in a useful way.
-
-Building this portfolio also gave me the chance to reflect on what I’ve learned. I worked on communicating my code, thinking about efficiency, and designing features that make sense to users. I also built a stronger mindset around security, making sure inputs are handled safely and features work as expected. Altogether, this portfolio shows that I can plan, explain, and deliver software that works.
+Everything came together in my Capstone project, where I went back to the Weight Tracker app I first built in CS-360 and made improvements in these three areas. I added a graph, a merge sort algorithm, and a notes feature, which gave me the chance to put what I learned into practice and show growth across computer science. Working on the Capstone showed how much I’ve improved since I started, and that I can plan, build, and finish projects that actually work.
 
 ---
 
