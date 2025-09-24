@@ -60,7 +60,7 @@ For this enhancement, I added a line graph to the Weight Tracker app. The graph 
 
 This enhancement also gave me the chance to practice working with outside libraries and tie them into my project in a way that fit my design. I learned how to manage the data flow between the database and the UI, and how to make a visual feature that feels natural for the user. Adding the graph shows that I can take an existing app and build on it with new ideas that improve both the look and the function.
 
-<img src="https://raw.githubusercontent.com/Russrecker/CS-499-Computer-Science-Capstone/main/Artifact-Weight-Tracker/Enhancement%201%20-%20Software%20Design%20and%20Engineering/assets/Line%20Graph.png" alt="Line Graph Screenshot" width="250">
+<img src="https://raw.githubusercontent.com/Russrecker/CS-499-Computer-Science-Capstone/main/Artifact-Weight-Tracker/Enhancement%201%20-%20Software%20Design%20and%20Engineering/assets/Line%20Graph.png" alt="Line Graph Screenshot" width="300">
 
 ---
 
