@@ -45,6 +45,9 @@ The Weight Tracker app was built in my CS360 Mobile Architect & Programming cour
 - Weight logging
 - Goal weight entry
 - SMS notifications
+<a href="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Original_Artifact-blue?logo=github" alt="GitHub Repo">
+</a>
 
 #### Enhanced version includes:
 - Line graph (Software Design and Engineering)
@@ -52,11 +55,6 @@ The Weight Tracker app was built in my CS360 Mobile Architect & Programming cour
 - Notes section (Databases)
 
 This artifact works well for my ePortfolio because it ties together multiple areas of computer science into one project.
-
-<a href="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Original_Artifact-blue?logo=github" alt="GitHub Repo">
-</a>
-
 
 ---
 
