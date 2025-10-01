@@ -82,7 +82,7 @@ This enhancement also gave me the chance to practice working with outside librar
 
 ---
 
-### [Enhancement 2 - Algorithms and Data Structures](https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%202%20-%20Algorithms%20and%20Data%20Structures)
+### Enhancement 2 - Algorithms and Data Structures
 For this enhancement, I added a merge sort to organize the weight entries. This list can now be sorted by date either newest to oldest or oldest to newest. This makes the app easier to use because users can now look at their progress in whichever order that works best for them. On the front end, I added a popup menu with two choices and a checkmark next to the active option. I Also saved the choice so when users come back, the app remembers how the list was set. On the back end, I converted the date strings into real date objects sos the sorting would work correctly and used merge sort to order the weight entries.
 
 This enhancement gave me practice putting an algorithm into a real app. I learned how to connect sorting logic to the user interface, save user preference, and keep the list updated without issues. Adding merge sort shows that I can take a core computer science concept and apply it to improve usability of my app.
@@ -102,7 +102,7 @@ This enhancement gave me practice putting an algorithm into a real app. I learne
 
 ---
 
-### [Enhancement 3 - Databases](https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%203%20-%20Databases)
+### Enhancement 3 - Databases
 For this enhancement, I added a notes database to the Weight Tracker app. This lets users create, read, update, and delete notes. Users can save extra details along with their weight, which makes the app even more useful. On the front end, I added a screen for notes where users can add new notes, edit them, or delete them. If there are no notes, the screen shows a message so the user knows the list is empty. On the back end, I built the database with SQLite, created the table for notes, and set up the queries for each operation.
 
 This enhancement gave me practice working with databases and connecting them to the user interface. I learned how to handle saving and loading data, update the screen when changes are made, and make sure each note is tied to the correct user. Adding the notes database shows that I can build new features that combine front end and back end work and improve the overall functionality of the app.
