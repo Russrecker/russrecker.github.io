@@ -67,7 +67,7 @@ This enhancement also gave me the chance to practice working with outside librar
 ### [Enhancement 2 - Algorithms and Data Structures](https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%202%20-%20Algorithms%20and%20Data%20Structures)
 For the enhancement, I added a merge sort to organize the weight entries. This keeps the graph and list view consistent and shows that I can apply algorithms in practice. It also gave me the chance to compare built-in sorting with implementing an algorithm directly. This enhancement shows that I can solve problems with data and improve efficiency where needed. 
 
-<img src="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/blob/main/Artifact-Weight-Tracker/Enhancement%202%20-%20Algorithms%20and%20Data%20Structures/assets/Merge%20Sort.png" alt="Sorting Filter" width="300">
+<img src="https://raw.githubusercontent.com/Russrecker/CS-499-Computer-Science-Capstone/main/Artifact-Weight-Tracker/Enhancement%202%20-%20Algorithms%20and%20Data%20Structures/assets/Merge%20Sort.png" alt="Sorting Filter Screenshot" width="300">
 
 ---
 
