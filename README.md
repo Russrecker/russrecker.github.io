@@ -73,3 +73,5 @@ For the enhancement, I added a merge sort to organize the weight entries. This k
 
 ### [Enhancement 3 - Databases](https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%203%20-%20Databases)
 I built a notes section that uses the SQLite database. Now users can save comments or details such as their meals, workout or maybe even how they felt that day. This enhancement gave me experience designing a table, connecting it with the app, and making sure new data shows right away. It shows that I can design and manage databases inside an application.
+
+<img src="https://raw.githubusercontent.com/Russrecker/CS-499-Computer-Science-Capstone/main/Artifact-Weight-Tracker/Enhancement%203%20-%20Databases/assets/Notes.png" alt="Notes Screenshot" width="300">
