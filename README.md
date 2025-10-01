@@ -7,7 +7,7 @@ Some of my favorite classes gave me the chance to work on cool projects and see 
 
 The program also gave me the chance to connect with other classmates through discussions and the unofficial school Discord. I was able to talk with other students, share feedback, and get new ideas, which helped me improve my work. This showed me how important collaboration is, because explaining my thought process and listening to others made me a better problem solver.
 
-The program helped me build skills that I’ll take with me, whether in a computer science career or another path I decide to follow. I learned how to use algorithms and data structures to make my code run better, how to design apps in a way that makes sense for users, and how to work with databases to store and pull data. I also started paying more attention to security, like checking inputs, tying data to specific users, and avoiding mistakes that could cause problems. These are all things I know will carry over into real projects.
+The program helped me build skills that I’ll take with me, whether in a computer science career or another path I decide to follow. I learned how to use algorithms and data structures to make my code run better, how to design apps in a way that makes sense for users, and how to work with databases to store and pull data. These are all things I know will carry over into real projects.
 
 Building this ePortfolio shows my growth and the skills I will use in my career. I focused on three areas:
 - Software Design and Engineering
@@ -105,7 +105,7 @@ This enhancement gave me practice putting an algorithm into a real app. I learne
 ### Enhancement 3 - Databases
 For this enhancement, I added a notes database to the Weight Tracker app. This lets users create, read, update, and delete notes. Users can save extra details along with their weight, which makes the app even more useful. On the front end, I added a screen for notes where users can add new notes, edit them, or delete them. If there are no notes, the screen shows a message so the user knows the list is empty. On the back end, I built the database with SQLite, created the table for notes, and set up the queries for each operation.
 
-This enhancement gave me practice working with databases and connecting them to the user interface. I learned how to handle saving and loading data, update the screen when changes are made, and make sure each note is tied to the correct user. Adding the notes database shows that I can build new features that combine front end and back end work and improve the overall functionality of the app.
+This enhancement gave me practice working with databases and connecting them to the user interface. I learned how to handle saving and loading data, update the screen when changes are made, and make sure each note is tied to the correct user. I also focuded on security by tying each note to the right username, asking for confirmation before deletion, and handling user input. These steps help protect user data and make the feature safe. Adding the notes database shows that I can build new features that combine front end and back end work and improve the overall functionality of the app.
 
 <img src="https://raw.githubusercontent.com/Russrecker/CS-499-Computer-Science-Capstone/main/Artifact-Weight-Tracker/Enhancement%203%20-%20Databases/assets/Notes.png" alt="Notes Screenshot" width="300">
 
