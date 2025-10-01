@@ -37,7 +37,7 @@ In this video, I walked through the original Weight Tracker app, explained the e
 
 ---
 
-### [Artifact: Weight Tracker App](https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker)
+### Artifact: Weight Tracker App
 The Weight Tracker app was built in my CS360 Mobile Architect & Programming course. It lets users log weight entries, track their goal, and now includes added features through my enhancements.
 
 #### Original version included:
@@ -52,6 +52,11 @@ The Weight Tracker app was built in my CS360 Mobile Architect & Programming cour
 - Notes section (Databases)
 
 This artifact works well for my ePortfolio because it ties together multiple areas of computer science into one project.
+
+<a href="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" alt="GitHub Repo">
+</a>
+
 
 ---
 
