@@ -111,7 +111,7 @@ This enhancement gave me practice working with databases and connecting them to 
 
 <div style="display:flex; gap:15px;">
   <a href="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%203%20-%20Databases">
-    <img src="https://img.shields.io/badge/GitHub-Enhancement_2-blue?logo=github" alt="GitHub Repo">
+    <img src="https://img.shields.io/badge/GitHub-Enhancement_3-blue?logo=github" alt="GitHub Repo">
   </a>
 
   <a href="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/blob/main/Artifact-Weight-Tracker/Enhancement%203%20-%20Databases/Narrative.pdf">
