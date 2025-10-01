@@ -80,7 +80,6 @@ This enhancement also gave me the chance to practice working with outside librar
   </a>
 </div>
 
-
 ---
 
 ### [Enhancement 2 - Algorithms and Data Structures](https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%202%20-%20Algorithms%20and%20Data%20Structures)
@@ -90,6 +89,17 @@ This enhancement gave me practice putting an algorithm into a real app. I learne
 
 <img src="https://raw.githubusercontent.com/Russrecker/CS-499-Computer-Science-Capstone/main/Artifact-Weight-Tracker/Enhancement%202%20-%20Algorithms%20and%20Data%20Structures/assets/Merge%20Sort.png" alt="Sorting Filter Screenshot" width="300">
 
+<div style="display:flex; gap:15px;">
+  <a href="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%202%20-%20Algorithms%20and%20Data%20Structures">
+    <img src="https://img.shields.io/badge/GitHub-Enhancement_2-blue?logo=github" alt="GitHub Repo">
+  </a>
+
+  <a href="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/blob/main/Artifact-Weight-Tracker/Enhancement%202%20-%20Algorithms%20and%20Data%20Structures/Narrative.pdf">
+    <img src="https://img.shields.io/badge/GitHub-Narrative-blue?logo=github" alt="GitHub Repo">
+  </a>
+</div>
+
+
 ---
 
 ### [Enhancement 3 - Databases](https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%203%20-%20Databases)
@@ -98,3 +108,13 @@ For this enhancement, I added a notes database to the Weight Tracker app. This l
 This enhancement gave me practice working with databases and connecting them to the user interface. I learned how to handle saving and loading data, update the screen when changes are made, and make sure each note is tied to the correct user. Adding the notes database shows that I can build new features that combine front end and back end work and improve the overall functionality of the app.
 
 <img src="https://raw.githubusercontent.com/Russrecker/CS-499-Computer-Science-Capstone/main/Artifact-Weight-Tracker/Enhancement%203%20-%20Databases/assets/Notes.png" alt="Notes Screenshot" width="300">
+
+<div style="display:flex; gap:15px;">
+  <a href="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%203%20-%20Databases">
+    <img src="https://img.shields.io/badge/GitHub-Enhancement_2-blue?logo=github" alt="GitHub Repo">
+  </a>
+
+  <a href="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/blob/main/Artifact-Weight-Tracker/Enhancement%203%20-%20Databases/Narrative.pdf">
+    <img src="https://img.shields.io/badge/GitHub-Narrative-blue?logo=github" alt="GitHub Repo">
+  </a>
+</div>
