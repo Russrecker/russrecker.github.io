@@ -70,12 +70,16 @@ This enhancement also gave me the chance to practice working with outside librar
 
 <img src="https://raw.githubusercontent.com/Russrecker/CS-499-Computer-Science-Capstone/main/Artifact-Weight-Tracker/Enhancement%201%20-%20Software%20Design%20and%20Engineering/assets/Line%20Graph.png" alt="Line Graph Screenshot" width="300">
 
-<a href="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%201%20-%20Software%20Design%20and%20Engineering">
-  <img src="https://img.shields.io/badge/GitHub-Enhancement_1-blue?logo=github" alt="GitHub Repo">
-</a>
-<a href="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/blob/main/Artifact-Weight-Tracker/Enhancement%201%20-%20Software%20Design%20and%20Engineering/Narrative.pdf">
-  <img src="https://img.shields.io/badge/GitHub-Narrative-blue?logo=github" alt="GitHub Repo">
-</a>
+<div style="display:flex; gap:15px;">
+  <a href="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%201%20-%20Software%20Design%20and%20Engineering">
+    <img src="https://img.shields.io/badge/GitHub-Enhancement_1-blue?logo=github" alt="GitHub Repo">
+  </a>
+
+  <a href="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/blob/main/Artifact-Weight-Tracker/Enhancement%201%20-%20Software%20Design%20and%20Engineering/Narrative.pdf">
+    <img src="https://img.shields.io/badge/GitHub-Narrative-blue?logo=github" alt="GitHub Repo">
+  </a>
+</div>
+
 
 ---
 
