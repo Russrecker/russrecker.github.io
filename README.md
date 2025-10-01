@@ -54,7 +54,7 @@ The Weight Tracker app was built in my CS360 Mobile Architect & Programming cour
 This artifact works well for my ePortfolio because it ties together multiple areas of computer science into one project.
 
 <a href="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" alt="GitHub Repo">
+  <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" alt="Original Artifact">
 </a>
 
 
