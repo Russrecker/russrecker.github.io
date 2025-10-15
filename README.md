@@ -87,7 +87,7 @@ For this enhancement, I added a merge sort to organize the weight entries. This 
 
 This enhancement gave me practice putting an algorithm into a real app. I learned how to connect sorting logic to the user interface, save user preference, and keep the list updated without issues. Adding merge sort shows that I can take a core computer science concept and apply it to improve the usability of my app. This enhancement proves I can tie in an algorithm  into the user interface in a way that makes the app flexible and easier to use.
 
-<img src="https://raw.githubusercontent.com/Russrecker/CS-499-Computer-Science-Capstone/main/Artifact-Weight-Tracker/Enhancement%202%20-%20Algorithms%20and%20Data%20Structures/assets/Merge%20Sort.png" alt="Sorting Filter Screenshot" width="300">
+<img src="https://raw.githubusercontent.com/Russrecker/CS-499-Computer-Science-Capstone/main/Artifact-Weight-Tracker/Enhancement%202%20-%20Algorithms%20and%20Data%20Structures/assets/Merge%20Sort.gif" alt="Sorting Filter Demo" width="400">
 
 <div style="display:flex; gap:15px;">
   <a href="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%202%20-%20Algorithms%20and%20Data%20Structures">
@@ -107,7 +107,7 @@ For this enhancement, I added a notes database to the Weight Tracker app. This l
 
 This enhancement gave me practice working with databases and connecting them to the user interface. I learned how to handle saving and loading data, update the screen when changes are made, and make sure each note is tied to the correct user. I also focused on security by tying each note to the right username, asking for confirmation before deletion, and handling user input. These steps help protect user data and make the feature safe. Adding the notes database shows that I can build new features that combine front end and back end work and improve the overall functionality of the app.
 
-<img src="https://raw.githubusercontent.com/Russrecker/CS-499-Computer-Science-Capstone/main/Artifact-Weight-Tracker/Enhancement%203%20-%20Databases/assets/Notes.png" alt="Notes Screenshot" width="300">
+<img src="https://raw.githubusercontent.com/Russrecker/CS-499-Computer-Science-Capstone/main/Artifact-Weight-Tracker/Enhancement%203%20-%20Databases/assets/Notes.gif" alt="Notes Demo" width="400">
 
 <div style="display:flex; gap:15px;">
   <a href="https://github.com/Russrecker/CS-499-Computer-Science-Capstone/tree/main/Artifact-Weight-Tracker/Enhancement%203%20-%20Databases">
